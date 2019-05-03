@@ -3,9 +3,7 @@ Graduate-project-collection
 
 # Regression Models
 
-:::success
-小目標：Regression Model 預測台灣加權指數 (利用sklearn) :+1: 
-:::
+小目標：Regression Model 預測台灣加權指數 (利用sklearn)
 
 ---
 
@@ -33,9 +31,6 @@ Graduate-project-collection
 
 ---
 
-:::warning
-如何處理財務資料？（財務資料的資料前處理）
-:::
 
 
 
