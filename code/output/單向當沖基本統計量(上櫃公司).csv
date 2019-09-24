@@ -1,0 +1,64 @@
+mean_before_daily,0.1224%
+mean_after_daily,0.1362%
+mean_before_weekly,0.5646%
+mean_after_weekly,0.6973%
+mean_before_monthly,2.1964%
+mean_after_monthly,3.4932%
+mean_before_cash,0.0%
+mean_after_cash,5.4691%
+std_before_daily,2.1233%
+std_after_daily,2.0248%
+std_before_weekly,4.7182%
+std_after_weekly,4.1941%
+std_before_monthly,9.5165%
+std_after_monthly,8.0729%
+std_before_cash,0.0%
+std_after_cash,3.1368%
+median_before_daily,0.0034%
+median_after_daily,0.0074%
+median_before_weekly,0.2957%
+median_after_weekly,0.3949%
+median_before_monthly,1.5096%
+median_after_monthly,2.9721%
+median_before_cash,0.0%
+median_after_cash,5.0047%
+max_before_daily,0.6421%
+max_after_daily,0.7557%
+max_before_weekly,3.0315%
+max_after_weekly,3.7767%
+max_before_monthly,-5.657%
+max_after_monthly,18.4023%
+max_before_cash,0.0%
+max_after_cash,20.5471%
+min_before_daily,-0.2993%
+min_after_daily,-0.1611%
+min_before_weekly,-1.3956%
+min_after_weekly,-0.6425%
+min_after_monthly,-2.7913%
+min_before_cash,0.0%
+min_after_cash,0.0%
+0.25_before_daily,-0.0175%
+0.25_after_daily,-0.0048%
+0.25_before_weekly,-0.1145%
+0.25_after_weekly,-0.1231%
+0.25_before_monthly,-0.7246%
+0.25_after_monthly,0.1194%
+0.25_before_cash,0.0%
+0.25_after_cash,2.7114%
+0.75_before_daily,0.2118%
+0.75_after_daily,0.2283%
+0.75_before_weekly,0.942%
+0.75_after_weekly,1.2739%
+0.75_before_monthly,4.2111%
+0.75_after_monthly,4.8142%
+0.75_before_cash,0.0%
+0.75_after_cash,6.8344%
+tttest_mean_daily,0.7422%
+tttest_mean_weekly,0.5218%
+ttest_mean_monthly,not significant
+ttest_std_daily,not significant
+ttest_std_weekly,not significant
+ttest_std_monthly,not significant
+ttest_median_daily,not significant
+ttest_median_weekly,not significant
+ttest_median_monthly,not significant
